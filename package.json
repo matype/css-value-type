@@ -1,6 +1,6 @@
 {
   "name": "css-value-type",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "get types of CSS properties",
   "main": "index.js",
   "scripts": {
