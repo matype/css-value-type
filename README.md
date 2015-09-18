@@ -10,6 +10,13 @@ $ npm install css-value-type
 
 ## Usage
 
+```js
+var getType = require('css-value-type')
+
+getType('10vh') // 'length'
+getType('rgb(255, 0, 0)') // 'color'
+```
+
 ## License
 
 The MIT License (MIT)
